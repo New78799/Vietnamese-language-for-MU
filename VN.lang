@@ -1,0 +1,329 @@
+ExitButton,Thoát
+BackButton,Quay lại
+AvailableGamesLabel,Nhx phòng có thể vào
+CreateGameButton,Lập phòng
+FindGameButton,Tìm kiếm
+EnterCode,Nhập mã số
+GhostIgnoreTasks,Bạn đã chớt. Tận hưởng nhé.
+GhostDoTasks,Bạn đã chớt. Làm hết nhiệm vụ của bạn để giành chiến thắng.
+GhostImpostor,Bạn đã chớt. Bạn vẫn có thể phá hoại.
+ImpostorTask,Phá hoại và tiêu diệt tất cả mọi người.
+FakeTasks,Nhiệm vụ giả:
+TaskComplete,Nhiệm vụ đã hoàn thành!
+NoExileSkip,Ko ai bị đuổi. (Đã bỏ qua)
+NoExileTie,Ko ai bị đuổi. (Hòa)
+ExileTextSP,{0} là {1}.
+ExileTextSN,{0} ko phải là {1}.
+ExileTextPP,{0} là 1 {1}.
+ImpostorsRemainS,Còn {0} kẻ giả mạo.
+ImpostorsRemainP,Còn {0} kẻ giả mạo.
+Hallway,Hành lang
+UpperEngine,Động cơ trên
+Cafeteria,Căn tin
+Weapons,Phòng vũ khí
+Reactor,Phòng hạt nhân
+Security,Phòng an ninh
+MedBay,Phòng y tế
+LifeSupp,Phòng O2
+Nav,Phòng điều khiển
+LowerEngine,Động cơ dưới
+Electrical,Phòng điện
+Admin,Phòng hành chính
+Storage,Phòng lưu trữ
+Shields,Phòng lá chắn
+Comms,Phòng truyền thông
+Decontamination,Phòng khử trùng
+Launchpad,Bệ phóng
+LockerRoom,Phòng thay đồ
+Laboratory,Phòng thí nghiệm
+Balcony,Ban công
+Office,Office
+Greenhouse,Greenhouse
+DivertPowerTo,Chuyển hướng nguồn điện tới
+AcceptDivertedPower,Chấp nhận nguồn điện chuyển hướng
+SubmitScan,Quét cơ thể
+PrimeShields,Khởi động lá chắn
+FuelEngines,Lấy nhiên liệu cho động cơ
+ChartCourse,Quản ly biểu đồ hướng đi
+StartReactor,Bắt đầu lò phản ứng
+SwipeCard,Quẹt thẻ
+ClearAsteroids,Bắn vỡ các tiểu hành tinh
+DownloadData,Tải xuống dữ liệu
+UploadData,Tải dữ liệu lên
+InspectSample,Kiểm tra mẫu
+EmptyChute,Dọn thùng rác
+EmptyGarbage,Đổ rác
+AlignEngineOutput,Căn chỉnh đầu ra của động cơ
+FixWiring,Sửa chữa hệ thống dây điện
+CalibrateDistributor,Hiệu chuẩn bộ phân phối
+UnlockManifolds,Mở khóa đa tạp
+ResetReactor,Lò phản ứng sẽ tan chảy sau
+FixLights,Sửa các bóng đèn
+CleanO2Filter,Làm sạch bộ lọc O2
+FixComms,Truyền thông đang bị phá hoại
+RestoreOxy,Oxy sẽ cạn kiệt sau
+StabilizeSteering,Ổn định tay lái
+
+AssembleArtifact,Assemble Artifact
+SortSamples,Sort Samples
+MeasureWeather,Measure Weather
+EnterIdCode,Enter Id Code
+BuyBeverage,Buy Beverage
+ProcessData,Process Data
+
+NumImpostorsS,Có <color=red>1 Kẻ giả mạo</color> trong chúng ta
+NumImpostorsP,Có {0} <color=red>Kẻ giả mạo</color> trong chúng ta
+
+Crewmate,Phi hành đoàn
+Impostor,Kẻ giả mạo
+Victory,Chiến thắng
+Defeat,Thua cuộc
+CrewmatesDisconnected,Đa số các phi hành\nđoàn đã ngắt kết nối
+ImpostorDisconnected,Kẻ giả mạo đã ngắt kết nối
+
+PickAnomaly,Pick Anomaly
+WaterPlantsGetCan,Watering Can Get!
+AuthOfficeOkay,Office OK
+AuthCommsOkay,Comms OK
+AuthOfficeActive,Office ACTIVE
+AuthCommsActive,Comms ACTIVE
+AuthOfficeNotActive,Office NOT ACTIVE
+AuthCommsNotActive,Comms NOT ACTIVE
+SecLogEntry,{0} passed the {1} sensor
+LogNorth,North
+LogSouthEast,Southeast
+LogSouthWest,Southwest
+
+EnterName,Nhập tên vào
+
+SwipeCardPleaseInsert,Hãy cho thẻ vào
+SwipeCardPleaseSwipe,Hãy quẹt thẻ
+SwipeCardBadRead,Đọc lỗi. Hãy thử lại.
+SwipeCardTooFast,Quá nhanh. Hãy thử lại.
+SwipeCardTooSlow,Quá chậm. Hãy thử lại.
+SwipeCardAccepted,Đã chấp nhận. Cảm ơn.
+
+ReactorHoldToStop,Giữ để ngăn sự tan chảy
+ReactorWaiting,Đang đợi người thứ 2
+ReactorNominal,Lò phản ứng đã đc ổn định
+
+MeetingWhoIsTitle,Ai là kẻ giả mạo?
+MeetingVotingBegins,Việc bỏ phiếu bắt đầu sau: {0}s
+MeetingVotingEnds,Việc bỏ phiếu kết thúc sau: {0}s
+MeetingVotingResults,Kết quả bỏ phiếu
+MeetingProceeds,Tiến hành trong: {0}s
+MeetingHasVoted,{0} đã bỏ phiếu. Còn lại {1}.
+
+SettingsGeneral,Tổng quan
+SettingsControls,Điều khiển
+SettingsSound,Âm thanh
+SettingsGraphics,Đồ họa
+SettingsData,Dữ liệu
+SettingsCensorChat,Trò chuyện kiểm duyệt
+SettingsMusic,Âm nhạc
+SettingsSFX,SFX
+SettingsOn,Mở
+SettingsOff,Tắt
+SettingsSendTelemetry,Gửi dữ liệu từ xa
+SettingsControlMode,Chế độ điều khiển
+SettingsTouchMode,Chạm
+SettingsJoystickMode,Vùng điều khiển
+SettingsKeyboardMode,Chuột+Bàn phím
+SettingsFullscreen,Toàn màn hình
+SettingsVSync,VSync
+SettingsResolution,Độ phân giải
+SettingsApply,Áp dụng
+SettingsPersonalizeAds,Cá nhân hóa quảng cáo
+SettingsLanguage,Ngôn ngữ
+SettingsJoystickSize,Kích thước
+SettingsMouseMode,Chuột
+
+MatchMapName,Bản đồ:
+MatchLanguage,Nhắn tin:
+MatchImpostors,Số kẻ giả mạo:
+MatchMaxPlayers,Số người tối đa:
+Cancel,Hủy
+Confirm,Xác nhận
+
+PlayerColor,Màu
+PlayerHat,Mũ
+PlayerSkin,Trang phục
+PlayerPet,Thú cưng
+GameSettings,Trò chơi
+GameRecommendedSettings,Cài đặt được đề xuất
+GameCustomSettings,Cài đặt tùy chỉnh
+GameMapName,Bản đồ
+GameNumImpostors,<b>Số kẻ giả mạo</b>
+GameNumMeetings,# Số cuộc họp khẩn cấp
+GameDiscussTime,Thời gian thảo luận
+GameVotingTime,Thời gian bỏ phiếu
+GamePlayerSpeed,Tốc độ di chuyển
+GameCrewLight,Tầm nhìn của Phi hành đoàn
+GameImpostorLight,Tầm nhìn của Kẻ giả mạo
+GameKillCooldown,Thời gian hồi chiêu của kĩ năng tiêu diệt
+GameKillDistance,Khoảng cách tiêu diệt
+GameCommonTasks,# Nhiệm vụ chung
+GameLongTasks,# Nhiệm vụ dài
+GameShortTasks,# Nhiệm vụ ngắn
+GameEmergencyCooldown,Thời gian hồi chiêu của cuộc họp khẩn cấp
+
+Limit,Giới hạn
+RoomCode,Mã số
+LeaveGame,Rời phòng
+ReturnToGame,Tiếp tục chơi
+
+EmergencyCount,PHI HÀNH ĐOÀN {0} CÒN LẠI \n\n\n\n CUỘC HỌP KHẨN CẤP
+EmergencyNotReady,CÁC PHI HÀNH ĐOÀN CẦN PHẢI ĐỢI\n\n\n\nTRƯỚC KHI CUỘC HỌP CÓ THỂ DIỄN RA
+EmergencyDuringCrisis,KHÔNG THỂ GỌI CUỘC HỌP KHẨN CẤP \n TRONG KHI ĐANG BỊ PHÁ HOẠI
+EmergencyRequested,YÊU CẦU CUỘC HỌP KHẨN CẤP \n ĐANG CHỜ CHỦ PHÒNG
+
+AdPolicyTitle,Chính sách quảng cáo
+AdPolicyText,Among Us sử dụng quảng cáo AdMob sau mỗi trận đấu để làm cho ứng \n dụng này miễn phí. Theo mặc định, AdMob thu thập dữ liệu cho các quảng\n cáo được tùy chỉnh. AdMob vẫn sẽ sử dụng cookie, id thiết bị và dữ liệu \nđịa lý thô ngay cả đối với các quảng cáo không được cá nhân hóa. Chúng tôi không thể \ntắt tính năng này, vì vậy chúng tôi khuyên bạn nên mua bản nâng cấp không có quảng cáo (2 đô la Mỹ) thay thế. \n\nNếu bạn mua bản nâng cấp không có quảng cáo, bạn bè của bạn cũng sẽ không nhận được \nquảng cáo bất cứ khi nào bạn tổ chức! Nếu bạn đã mua bản nâng cấp trước đó, hãy mở cửa hàng \nđể khôi phục biên lai.
+Accept,Chấp nhận
+RemoveAds,Xóa quảng cáo
+DataPolicyWhat,"Đã thu thập" là gì?
+
+WaterPlants,Water Plants
+WeatherEta,ETA: {0}s
+WeatherComplete,Hoàn thành
+RunDiagnostics,Chạy Chẩn đoán
+
+SettingShort,Ngắn
+SettingMedium,Trung bình
+SettingLong,Dài
+SamplesPress,Nhấn để bắt đầu
+SamplesAdding,Thêm thuốc thử
+SamplesSelect,Chọn mẫu dị thường
+SamplesThanks,Cảm ơn bạn!
+SamplesComplete,Thử nghiệm thành công
+AstDestroyed,Đã phá hủy:
+TaskTestTitle,Máy tính Modding Us
+
+BeginDiagnostics,Bắt đầu chẩn đoán
+UserLeftGame,{0} đã rời phòng.
+GameStarting,Bắt đầu trong {0}
+
+SteadyHeartbeat,Ổn định nhịp tim
+ReshelveBooks,Đặt lại sách
+
+Disabled,Hiện tại tính năng này đã bị vô hiệu hóa.
+ClickIfLocked,Nhấp vào nếu bị khóa (chỉ trong trò chơi).
+JesterByVote,Chúa hề chiến thắng.
+JesterEnabled,Chúa hề được kích hoạt?
+OAF,Chỉ sau khi hoàn thành tất cả nhiệm vụ!
+FeedPetFish,Cho cá cảnh ăn
+ClearUrchinsMinigame,Dọn sạch nhím biển
+Observatory,Đài quan sát
+Lounge,Phòng chờ
+MeetingRoom,Phòng họp
+Research,Phòng nghiên cứu
+Medical,Phòng Y tế
+Lobby,Sảnh
+Engines,Động cơ
+Ballast,Chấn lưu (?)
+Filtration,Phòng lọc
+TGithub,Thao tác này sẽ dẫn bạn đến GitHub, bạn có chắc chắn muốn tiếp tục không?
+Yes,Đồng ý
+No,Không
+Central,Trung tâm
+HostAbort,Chủ phòng đã hủy vòng này.
+Abort,Buộc kết thúc
+CongratsDoNothing,Xin chúc mừng, bạn éo cần phải làm gì cả!!!!
+LowerCentral, Trung tâm dưới
+LowerLobby,Sảnh dưới
+UpperLobby,Sảnh trên
+DecontaminationEast,Phòng khử trùng phía Đông
+
+CrewmateTask,Làm nhiệm vụ của bạn.
+
+PelicanTask,Ăn hết tất cả mọi người để giành chiến thắng.
+Pelican,Pelican
+Swallow,Ăn
+SwallowedByPelican,You have been swallowed\nYou will revive if the pelican dies.
+
+SheriffTask,Bạn cần phải tiêu diệt nhx kẻ giả mạo hoặc trung lập.\nNếu bạn chọn sai, bạn sẽ chớt.
+Sheriff,Cảnh sát trưởng
+Shoot,BẮN
+
+Medic,Medic
+MedicTask,Bạn có thể hồi sinh xác chớt.
+Revive,HỒI SINH
+
+Customize,Tùy chỉnh
+Online,Trực tuyến
+Local,Nội mạng
+Freeplay,Chơi tự do
+Mods,Các mod
+ModsSupported,Nền tảng này hỗ trợ mod! (Made by Newholiday)
+ModsUnsupported,Thiết bị này không hỗ trợ mod. (Made by Newholiday)
+ModsUnsupportedIl2cpp,Thư mục Mod không được hỗ trợ trên bản dựng IL2CPP! (Made by Newholiday)
+AuthorizeStorage,Vui lòng cấp quyền lưu trữ\nNếu bạn đã cấp quyền, hãy nhấp vào bất kỳ menu nào và quay lại
+MapWontExist,Không thể tải bản đồ này.\n\nVui lòng chọn bản đồ khác.
+
+FetchingUpdate,Đang tải bản cập nhật
+NoInternetConn,Ko có kết nối Internet
+VersionNewer,Đã có phiên bản mới!
+VersionCorrect,Phiên bản này đang là mới nhất!
+PleaseWait,Hãy đợi 1 chút...
+LoadingSplash,Đang tải...
+UpdateAvailable,Đã có bản cập nhật mới!
+IgnoreUpdate,Bỏ qua
+Upgrade,Cập nhật
+
+Dummy,Hình nộm {0}
+
+FeaturedMods,Nổi bật
+DownloadedMods,Đã tải xuống
+DownloadedMods2,Mod đã tải xuống:
+Import,Nhập mod
+QuickRestart,Khởi động lại nhanh
+FeaturedMods2,Các mod nổi bật:
+UninstallWarn,Bạn có muốn xóa bản mod này không?\nTên: {0}\nĐường dẫn: {1}
+
+AlignTelescope,Căn chỉnh kính thiên văn
+CleanGlass,Lau kính
+ClearUrchins,Dọn sạch nhím biển
+CycleReactor,Quay lò phản ứng
+DiagnoseElevators,Diagnose Elevators
+DispenseWater,Dispense Water
+IdentifySpecimen,Xác định mẫu vật
+LocateVolcanicActivity,Xác định vị trí hoạt động núi lửa
+MicrowaveLunch,Nấu bữa trưa = lò vi sóng
+OxygenateSeaPlants,Oxy hóa thực vật biển
+PlugLeaks,Bịt chỗ rò rỉ
+PurchaseBreakfast,Mua bữa sáng(Ae VN thích ăn gì?)(Doesn't work)
+ReconnectPiping,Kết nối lại đường ống
+RecordNavBeaconData,Ghi lại điều hướng
+ResetBreakers,Thiết lập lại bộ ngắt mạch
+ReshelveBooks,Đặt lại 1 số cuốn sách
+RetrieveOxygenMask,Lấy mặt nạ oxy
+ShootDepthCharges,Bắn các chướng ngại vật
+SortScubaGear,Sắp xếp đồ lặn
+SpotWhaleShark,Theo dõi cá mập voi
+StartSubmersible,Bắt đầu chìm xuống
+SteadyHeartbeat,Ổn định nhịp tim (Doesn't work)
+TrackMantaRay,Theo dõi cá đuối Manta (Doesn't work)
+
+Ping,Độ trễ
+
+Kill,Tiêu diệt
+Use,Sử dụng
+Report,Báo cáo
+Sabotage,Phá hoại
+Vent,Chui cống
+
+Neutral,Trung lập
+RoleSettings,Các vai trò
+CanKill,Có thể tiêu diệt
+
+Dragger,Kẻ kéo xác
+DraggerDsc,Bạn có thể kéo xác
+DragButton,Kéo
+
+RoleWins,{0} đã thắng!
+GameNumNeutrals,Trung lập
+DisconnectInvalidMods,{0} sẽ bị đuổi vì mod của họ khác với mod của bạn.
+PlayersHaveInvalidMod,Không thể bắt đầu:\n1 số người chơi trong phòng có mod không hợp lệ
+
+Jester,Chúa hề
+JesterDsc,Bị đuổi để giành chiến thắng.

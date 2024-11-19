@@ -1,0 +1,329 @@
+ExitButton,Exit
+BackButton,Back
+AvailableGamesLabel,Available Games
+CreateGameButton,Create Game
+FindGameButton,Find Game
+EnterCode,Enter Code
+GhostIgnoreTasks,You're dead. Enjoy the chaos
+GhostDoTasks,You are dead. Finish your tasks to win.
+GhostImpostor,You're dead. You can still sabotage.
+ImpostorTask,Sabotage and kill everyone.
+FakeTasks,Fake Tasks:
+TaskComplete,Task Completed!
+NoExileSkip,No one was ejected. (Skipped)
+NoExileTie,No one was ejected. (Tie)
+ExileTextSP,{0} was The {1}.
+ExileTextSN,{0} was not The {1}.
+ExileTextPP,{0} was a {1}.
+ImpostorsRemainS,{0} Impostor remains.
+ImpostorsRemainP,{0} Impostors remain.
+Hallway,Hallway
+UpperEngine,Upper Engine
+Cafeteria,Cafeteria
+Weapons,Weapons
+Reactor,Reactor
+Security,Security
+MedBay,MedBay
+LifeSupp,O2
+Nav,Navigation
+LowerEngine,Lower Engine
+Electrical,Electrical
+Admin,Admin
+Storage,Storage
+Shields,Shields
+Comms,Communications
+Decontamination,Decontamination
+Launchpad,Launchpad
+LockerRoom,Locker Room
+Laboratory,Laboratory
+Balcony,Balcony
+Office,Office
+Greenhouse,Greenhouse
+DivertPowerTo,Divert Power to
+AcceptDivertedPower,Accept Diverted Power
+SubmitScan,Submit Scan
+PrimeShields,Prime Shields
+FuelEngines,Fuel Engines
+ChartCourse,Chart Course
+StartReactor,Start Reactor
+SwipeCard,Swipe Card
+ClearAsteroids,Clear Asteroids
+DownloadData,Download Data
+UploadData,Upload Data
+InspectSample,Inspect Sample
+EmptyChute,Empty Chute
+EmptyGarbage,Empty Garbage
+AlignEngineOutput,Align Engine Output
+FixWiring,Fix Wiring
+CalibrateDistributor,Calibrate Distributor
+UnlockManifolds,Unlock Manifolds
+ResetReactor,Reactor Meltdown in
+FixLights,Fix Lights
+CleanO2Filter,Clean O2 Filter
+FixComms,Comms Sabotaged
+RestoreOxy,Oxygen Depleted in
+StabilizeSteering,Stabilize Steering
+
+AssembleArtifact,Assemble Artifact
+SortSamples,Sort Samples
+MeasureWeather,Measure Weather
+EnterIdCode,Enter Id Code
+BuyBeverage,Buy Beverage
+ProcessData,Process Data
+
+NumImpostorsS,There is <color=red>1 Impostor</color> among us
+NumImpostorsP,There are {0} <color=red>Impostors</color> among us
+
+Crewmate,Crewmate
+Impostor,Impostor
+Victory,Victory
+Defeat,Defeat
+CrewmatesDisconnected,Most Crewmates\nDisconnected
+ImpostorDisconnected,Impostor Disconnected
+
+PickAnomaly,Pick Anomaly
+WaterPlantsGetCan,Watering Can Get!
+AuthOfficeOkay,Office OK
+AuthCommsOkay,Comms OK
+AuthOfficeActive,Office ACTIVE
+AuthCommsActive,Comms ACTIVE
+AuthOfficeNotActive,Office NOT ACTIVE
+AuthCommsNotActive,Comms NOT ACTIVE
+SecLogEntry,{0} passed the {1} sensor
+LogNorth,North
+LogSouthEast,Southeast
+LogSouthWest,Southwest
+
+EnterName,Enter Name
+
+SwipeCardPleaseInsert,Please insert card
+SwipeCardPleaseSwipe,Please swipe card
+SwipeCardBadRead,Bad read. Try again.
+SwipeCardTooFast,Too fast. Try again.
+SwipeCardTooSlow,Too slow. Try again.
+SwipeCardAccepted,Accepted. Thank you.
+
+ReactorHoldToStop,Hold to stop meltdown
+ReactorWaiting,Waiting for second user
+ReactorNominal,Reactor Nominal
+
+MeetingWhoIsTitle,Who Is The Impostor?
+MeetingVotingBegins,Voting Begins In: {0}s
+MeetingVotingEnds,Voting Ends In: {0}s
+MeetingVotingResults,Voting Results
+MeetingProceeds,Proceeding In: {0}s
+MeetingHasVoted,{0} has voted. {1} remaining.
+
+SettingsGeneral,General
+SettingsControls,Controls
+SettingsSound,Sound
+SettingsGraphics,Graphics
+SettingsData,Data
+SettingsCensorChat,Censor Chat
+SettingsMusic,Music
+SettingsSFX,SFX
+SettingsOn,On
+SettingsOff,Off
+SettingsSendTelemetry,Send Telemetry
+SettingsControlMode,Control Mode
+SettingsTouchMode,Touch
+SettingsJoystickMode,Joystick
+SettingsKeyboardMode,Mouse+Keyboard
+SettingsFullscreen,Fullscreen
+SettingsVSync,VSync
+SettingsResolution,Resolution
+SettingsApply,Apply
+SettingsPersonalizeAds,Personalize Ads
+SettingsLanguage,Language
+SettingsJoystickSize,Size
+SettingsMouseMode,Mouse
+
+MatchMapName,Map:
+MatchLanguage,Chat:
+MatchImpostors,Impostors:
+MatchMaxPlayers,Max Players:
+Cancel,Cancel
+Confirm,Confirm
+
+PlayerColor,Color
+PlayerHat,Hat
+PlayerSkin,Skin
+PlayerPet,Pet
+GameSettings,Game
+GameRecommendedSettings,Recommended Settings
+GameCustomSettings,Custom Settings
+GameMapName,Map
+GameNumImpostors,<b>Impostors</b>
+GameNumMeetings,# Emergency Meetings
+GameDiscussTime,Discussion Time
+GameVotingTime,Voting Time
+GamePlayerSpeed,Player Speed
+GameCrewLight,Crewmate Vision
+GameImpostorLight,Impostor Vision
+GameKillCooldown,Kill Cooldown
+GameKillDistance,Kill Distance
+GameCommonTasks,# Common Tasks
+GameLongTasks,# Long Tasks
+GameShortTasks,# Short Tasks
+GameEmergencyCooldown,Emergency Cooldown
+
+Limit,Limit
+RoomCode,Code
+LeaveGame,Leave Game
+ReturnToGame,Return To Game
+
+EmergencyCount,CREWMEMBER {0} HAS\n\n\n\nEMERGENCY MEETINGS LEFT
+EmergencyNotReady,CREWMATES MUST WAIT\n\n\n\nBEFORE NEXT EMERGENCY
+EmergencyDuringCrisis,EMERGENCY MEETINGS CANNOT\nBE CALLED DURING CRISES
+EmergencyRequested,EMERGENCY MEETING REQUESTED\nWAITING FOR HOST
+
+AdPolicyTitle,Advertisement Policy
+AdPolicyText,Among Us uses AdMob ads after every match to make this app free. By\ndefault, AdMob collects data for tailored ads. AdMob will still use cookies,\ndevice ids, and coarse geo data even for non-personalized ads. We\ncannot turn this off, so we recommend buying the no-ad upgrade (2 USD)\ninstead.\n\nIf you buy the no-ad upgrade, your friends will also get no ads whenever\nyou host! If you've bought the upgrade before, open the store to recover\nthe receipt.
+Accept,Accept
+RemoveAds,Remove Ads
+DataPolicyWhat,What is Collected?
+
+WaterPlants,Water Plants
+WeatherEta,ETA: {0}s
+WeatherComplete,Complete
+RunDiagnostics,Run Diagnostics
+
+SettingShort,Short
+SettingMedium,Medium
+SettingLong,Long
+SamplesPress,Press To Start
+SamplesAdding,Adding Reagent
+SamplesSelect,Select Anomaly
+SamplesThanks,Thank you!
+SamplesComplete,Test Complete
+AstDestroyed,Destroyed:
+TaskTestTitle,Task Tester 2000
+
+BeginDiagnostics,Begin Diagnostics
+UserLeftGame,{0} left the game.
+GameStarting,Starting in {0}
+
+SteadyHeartbeat,Steady Heartbeat
+ReshelveBooks,Reshelve Books
+
+Disabled,Disabled for now.
+ClickIfLocked,Click if locked (only ingame).
+JesterByVote,Jester Wins.
+JesterEnabled,Jester Enabled?
+OAF,Only after finish all tasks!
+FeedPetFish,Feed Pet Fish
+ClearUrchinsMinigame,Clear Urchins
+Observatory,Observatory
+Lounge,Lounge
+MeetingRoom,Meeting Room
+Research,Research
+Medical,Medical
+Lobby,Lobby
+Engines,Engines
+Ballast,Ballast
+Filtration,Filtration
+TGithub,This will redirect you to GitHub, are you sure you want to continue?
+Yes,Yes
+No,No
+Central,Central
+HostAbort,The host aborted this round.
+Abort,Force end game
+CongratsDoNothing,Congratulations, you don't need to do nothin' !!!!
+LowerCentral, Lower Central
+LowerLobby,Lower Lobby
+UpperLobby,Upper Lobby
+DecontaminationEast, East Decontamination
+
+CrewmateTask,Do your tasks.
+
+PelicanTask,Eat everyone to win.
+Pelican,Pelican
+Swallow,SWALLOW
+SwallowedByPelican,You have been swallowed\nYou will revive if the pelican dies.
+
+SheriffTask,You need to kill impostors or neutrals.\nIf you misfire, you will die.
+Sheriff,Sheriff
+Shoot,SHOOT
+
+Medic,Medic
+MedicTask,You can revive dead bodies.
+Revive,REVIVE
+
+Customize,Customize
+Online,Online
+Local,Local
+Freeplay,Freeplay
+Mods,Mods
+ModsSupported,This platform support mods!
+ModsUnsupported,This device does not support mods..
+ModsUnsupportedIl2cpp,Mods folder is not supported on IL2CPP Builds!
+AuthorizeStorage,Please authorize storage permission\nIf you already did, click any menu and go back
+MapWontExist,Could not load this map.\n\nPlease choose another map for now.
+
+FetchingUpdate,Fetching Update...
+NoInternetConn,No Internet Connection.
+VersionNewer,Version is newer!
+VersionCorrect,Version is correct!
+PleaseWait,Please wait.
+LoadingSplash,Loading...
+UpdateAvailable,Update Available
+IgnoreUpdate,Ignore
+Upgrade,Upgrade
+
+Dummy,Dummy {0}
+
+FeaturedMods,Featured
+DownloadedMods,Downloaded
+DownloadedMods2,Downloaded Mods:
+Import,Import
+QuickRestart,Quick Restart
+FeaturedMods2,Featured Mods:
+UninstallWarn,Do you want to remove this mod?\nName: {0}\nPath: {1}
+
+AlignTelescope,Align Telescope
+CleanGlass,Clean Glass
+ClearUrchins,Clear Urchins
+CycleReactor,Cycle Reactor
+DiagnoseElevators,Diagnose Elevators
+DispenseWater,Dispense Water
+IdentifySpecimen,Identify Specimen
+LocateVolcanicActivity,Locate Volcanic Activity
+MicrowaveLunch,Microwave Lunch
+OxygenateSeaPlants,Oxygenate Sea Plants
+PlugLeaks,Plug Leaks
+PurchaseBreakfast,Purchase Breakfast
+ReconnectPiping,Reconnect Piping
+RecordNavBeaconData,Record Navigation
+ResetBreakers,Reset Breakers
+ReshelveBooks,Reshelve Books
+RetrieveOxygenMask,Retrieve Oxygen Mask
+ShootDepthCharges,Shoot Depths
+SortScubaGear,Sort Scuba Gear
+SpotWhaleShark,Spot Whale
+StartSubmersible,Start Submersible
+SteadyHeartbeat,Steady Heartbeat
+TrackMantaRay,Track Manta Ray
+
+Ping,Ping
+
+Kill,Kill
+Use,Use
+Report,Report
+Sabotage,Sabotage
+Vent,Vent
+
+Neutral,Neutral
+RoleSettings,Roles
+CanKill,Can Kill
+
+Dragger,Dragger
+DraggerDsc,You can drag bodies
+DragButton,Drag
+
+RoleWins,{0} Wins!
+GameNumNeutrals,Neutrals
+DisconnectInvalidMods,{0} will be kicked because his mods are different from yours.
+PlayersHaveInvalidMod,Failed to start:\nSome players in this lobby have invalid mods.
+
+Jester,Jester
+JesterDsc,Be ejected to win.
